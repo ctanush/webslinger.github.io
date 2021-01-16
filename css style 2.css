@@ -1,0 +1,57 @@
+body{
+     background-image: url("C:/Users/Tanush/Downloads/CSs.gif");
+    
+}
+   
+h1{
+    padding-top: 50px;
+    padding-left: 570px;
+    color: yellow;
+    
+}
+.intro{
+    padding-left: 620px;
+    font-size: large;
+    color: red;
+}
+.profilecard{
+    box-shadow: 0 10px 10px 0 grey;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    
+ 
+}
+.fa-facebook{
+    color: blue;
+    
+}
+.p2{
+    color:white
+}
+.p3{
+    color:white
+}
+.fa-linkedin{
+    color:yellow
+}
+.fa-github{
+    color:red
+}
+.card {
+   width : 1050px;
+   height: 1050px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  
+  .card:hover {
+    box-shadow: 0 8px 23px violet;
+  }
+  
+
+  .container {
+    padding: 2px 16px;
+  }
